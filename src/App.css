@@ -1,0 +1,28 @@
+.App{
+   
+}
+.App-Header{
+    background-color:#5cdd71; 
+    outline-style: solid;
+    text-align: center; color: blue;
+}
+.App-Profile{
+    background-color:#faf626f1;
+    float: left;
+}
+.App-Trends{
+    background-color: aqua;
+    float: left;
+}
+.App-NewCard{
+    background-color: blue;
+    
+}
+.App-Card{
+    background-color: rgb(235, 45, 12);
+    
+}
+.App-Follow{
+    background-color: blueviolet;
+    float: right;
+}
